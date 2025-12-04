@@ -1,96 +1,96 @@
-category,foodname,kcal,protein,nacl,kalium,phosphate
-Aufstriche,Konfitline Gelée Marmeladen,299,0.1,0,57,4
-Aufstriche,Honig,306,0.4,0,47,18
-Aufstriche,Nuss0Nougat0Creme,417,8.0,0,673,219
-Aufstriche,Erdnussbutter,597,26.1,0.6,760,362
-Brot Gebäck Pizza,Weizenmischbrot (Sonnenblumen),274,8.7,1.4,130,102
-Brot Gebäck Pizza,Vollkornbrot,187,6.5,1.4,239,232
-Brot Gebäck Pizza,Roggenmischbrot,212,6.9,0,185,136
-Brot Gebäck Pizza,Knäckebrot,358,11.1,2.0,189,135
-Brot Gebäck Pizza,Laugengebäck,340,9.4,2.0,129,160
-Brot Gebäck Pizza,Zwiebelkuchen Hefeteig,167,4.0,0,195,60
-Brot Gebäck Pizza,Pizza im Durchschnitt,216,9.0,1.2,190,155
-Kartoffeln Nudeln und Reis,Kartoffel gekocht mit Schale,70,2.1,0,416,50
-Kartoffeln Nudeln und Reis,Salzkartoffeln,70,2.0,0.8,338,48
-Kartoffeln Nudeln und Reis,Pommes Frites,290,3.0,0.8,560,73
-Kartoffeln Nudeln und Reis,Kartoffelchips,535,5.5,1.2,1000,147
-Kartoffeln Nudeln und Reis,Spätzle (Rohmasse),108,3.6,0,400,45
-Kartoffeln Nudeln und Reis,Reis gekocht poliert,84,2.0,0,31,36
-Soßen Fette,Barbecue0Grillsauce,146,1.8,3.0,464,52
-Soßen Fette,Sojasauce,70,8.7,15,360,210
-Soßen Fette,Tomatensetchup,110,2.1,3.0,590,43
-Soßen Fette,Butter,741,0.7,0,16,21
-Soßen Fette,Öl (Pflanzenöl im Durchschnitt),881,0,0,0,1
-Gemüse und Salate,Aubergine gegart ohne Salz,17,1.3,0,187,21
-Gemüse und Salate,Avocado,217,1.9,0,504,38
-Gemüse und Salate,Blumenkohl roh,23,2.5,0,328,54
-Gemüse und Salate,Blumenkohl gegart ohne Salz,18,2.2,0,245,49
-Gemüse und Salate,Bohnen (Schneidbohnen) grün,12,1.2,0.6,143,24
-Gemüse und Salate,Erbsen grün frisch,82,6.6,0,304,108
-Gemüse und Salate,Erbsen Konserve abgetropft,70,6.2,0.6,177,94
-Gemüse und Salate,Gurke frisch,12,1,0,165,15
-Gemüse und Salate,Kopfsalat,12,1.3,0,224,33
-Gemüse und Salate,Paprikaschote,19,1.1,0,177,22
-Gemüse und Salate,Radischen,15,1.1,0,255,26
-Gemüse und Salate,Rote Rübe (Bete roh,41,1.5,0,407,45
-Gemüse und Salate,Rote Rübe Konserve abgetropft,32,1.4,0.5,215,43
-Gemüse und Salate,Rotkohl roh,23,1.5,0,264,30
-Gemüse und Salate,Rotkohl (Blaukraut) gegart ohne Salz,18,1.4,0,138,38
-Gemüse und Salate,Spargel roh,18,1.9,0,203,46
-Gemüse und Salate,Spargel Konserve,15,1.7,0.7,120,30
-Gemüse und Salate,Tomate,17,1.0,0.5,242,26
-Gemüse und Salate,Zucchini,28,1.3,0,135,42
-Gemüse und Salate,Zucchini gegart ohne Salz,19,1.6,0,167,23
-Obst,Apfel roh,52,0.4,0,144,11
-Obst,Apfelmus,79,0.4,0,114,7
-Obst,Apfel getrocknet,248,1.4,0,627,50
-Obst,Ananas,59,0.5,0,173,9
-Obst,Banane,95,1.2,0,394,28
-Obst,Birne,52,0.5,0,125,15
-Obst,Erdbeere,32,0.8,0,145,25
-Obst,Heidelbeere,42,0.6,0,73,13
-Obst,Himbeere,34,1.3,0,170,45
-Obst,Kirsche,63,0.9,0,210,20
-Obst,Mango,60,0.6,0,190,13
-Obst,Mandarinen,50,0.7,0,210,20
-Obst,Orange,47,1.0,0,177,23
-Obst,Pfirsich,41,0.8,0,176,25
-Obst,Wassermelone,38,0.6,0,158,11
-Obst,Weintrauben,71,0.7,0,190,20
-Obst,Zitrone,56,0.7,0,149,16
-Nüsse,Haselnuss,636,11.9,0,635,337
-Nüsse,Paranuss,674,17.6,0,1020,500
-Nüsse,Cashew0Nuss,569,17.2,0,552,373
-Nüsse,Walnuss,683,14.4,0,544,407
-Nüsse,Sesam0Samen,565,17.7,0,468,607
-Zucker und Salz,Zucker,405,0,0,2,0
-Zucker und Salz,Salz,0,0,99,4,150
-Süßigkeiten Knabbereien,Schokolade weiß,542,5.2,0,241,144
-Süßigkeiten Knabbereien,Schokolade Vollmilch,507,5.3,0,459,220
-Süßigkeiten Knabbereien,Schokolade Milchschokolade,537,9.2,0,466,261
-Süßigkeiten Knabbereien,Geleefrüchte,329,1.6,0,123,11
-Süßigkeiten Knabbereien,Erdnussflips,529,9.7,2.0,165,107
-Süßigkeiten Knabbereien,Salzstangen,347,9.0,4.3,124,130
-Getränke,Wasser im Durchschnitt,0,0.2,0,82,15
-Getränke,Kaffee (Getränk),2,0.2,0,66,2
-Getränke,Bier hell,43,0.5,0,95,32
-Getränke,Apfelsaft,43,0.7,0,143,15
-Milch und Milchprodukte,Emmentaler (45 % Fett i.Tr.),400,28.9,0.7,95,627
-Milch und Milchprodukte,Camembert (45 % Fett i.Tr.),288,21.0,1.8,150,350
-Milch und Milchprodukte,Feta,236,17.0,3.0,150,360
-Milch und Milchprodukte,Frischkäse Doppelrahmstufe,335,11.0,1.0,90,150
-Milch und Milchprodukte,Joghurt aus Frischmilch 3.5 % Fett,61,3.3,0.1,157,102
-Milch und Milchprodukte,Kuhmilch 3.5 % Fett,65,3.4,0,141,92
-Milch und Milchprodukte,Sahne 30 % Fett,288,2.5,0,100,60
-Fleisch Wurst Fisch Eier,Huhn Brathuhn,166,19.7,0.2,339,200
-Fleisch Wurst Fisch Eier,Schwein Bratenfleisch,161,20.4,0.1,290,150
-Fleisch Wurst Fisch Eier,Rindfleisch mager,129,20.2,0,297,174
-Fleisch Wurst Fisch Eier,Leber Kalb,130,19.2,0,316,306
-Fleisch Wurst Fisch Eier,Fleischwurst,252,16.2,2.5,300,148
-Fleisch Wurst Fisch Eier,Leberwurst fein,337,15.9,2.0,215,181
-Fleisch Wurst Fisch Eier,Schinken gekocht geräuchert,193,19.5,2.4,270,136
-Fleisch Wurst Fisch Eier,Salami,316,17.2,3.2,314,158
-Fleisch Wurst Fisch Eier,Forelle blau,115,20.3,0.3,327,216
-Fleisch Wurst Fisch Eier,Kabeljau (Dorsch),77,17.7,0,352,194
-Fleisch Wurst Fisch Eier,Matjesfilet,237,15.1,5.6,375,197
-Fleisch Wurst Fisch Eier,Hühnerrei 1 Stück 60 g,82,7.7,0.1,80,128
+food_id,name,category,kcal,protein,nacl,potassium,phosphate
+69420,Ananas,Obst,59,0.5,0.0,173,9
+69421,Apfel getrocknet,Obst,248,1.4,0.0,627,50
+69422,Apfel roh,Obst,52,0.4,0.0,144,11
+69423,Apfelmus,Obst,79,0.4,0.0,114,7
+69424,Apfelsaft,Getränke,43,0.7,0.0,143,15
+69425,Aubergine gegart ohne Salz,Gemüse und Salate,17,1.3,0.0,187,21
+69426,Avocado,Gemüse und Salate,217,1.9,0.0,504,38
+69427,Banane,Obst,95,1.2,0.0,394,28
+69428,Barbecue0Grillsauce,Soßen Fette,146,1.8,3.0,464,52
+69429,Bier hell,Getränke,43,0.5,0.0,95,32
+69430,Birne,Obst,52,0.5,0.0,125,15
+69431,Blumenkohl gegart ohne Salz,Gemüse und Salate,18,2.2,0.0,245,49
+69432,Blumenkohl roh,Gemüse und Salate,23,2.5,0.0,328,54
+69433,Bohnen (Schneidbohnen) grün,Gemüse und Salate,12,1.2,0.6,143,24
+69434,Butter,Soßen Fette,741,0.7,0.0,16,21
+69435,Camembert (45 % Fett i.Tr.),Milch und Milchprodukte,288,21.0,1.8,150,350
+69436,Cashew0Nuss,Nüsse,569,17.2,0.0,552,373
+69437,Emmentaler (45 % Fett i.Tr.),Milch und Milchprodukte,400,28.9,0.7,95,627
+69438,Erbsen Konserve abgetropft,Gemüse und Salate,70,6.2,0.6,177,94
+69439,Erbsen grün frisch,Gemüse und Salate,82,6.6,0.0,304,108
+69440,Erdbeere,Obst,32,0.8,0.0,145,25
+69441,Erdnussbutter,Aufstriche,597,26.1,0.6,760,362
+69442,Erdnussflips,Süßigkeiten Knabbereien,529,9.7,2.0,165,107
+69443,Feta,Milch und Milchprodukte,236,17.0,3.0,150,360
+69444,Fleischwurst,Fleisch Wurst Fisch Eier,252,16.2,2.5,300,148
+69445,Forelle blau,Fleisch Wurst Fisch Eier,115,20.3,0.3,327,216
+69446,Frischkäse Doppelrahmstufe,Milch und Milchprodukte,335,11.0,1.0,90,150
+69447,Geleefrüchte,Süßigkeiten Knabbereien,329,1.6,0.0,123,11
+69448,Gurke frisch,Gemüse und Salate,12,1.0,0.0,165,15
+69449,Haselnuss,Nüsse,636,11.9,0.0,635,337
+69450,Heidelbeere,Obst,42,0.6,0.0,73,13
+69451,Himbeere,Obst,34,1.3,0.0,170,45
+69452,Honig,Aufstriche,306,0.4,0.0,47,18
+69453,Huhn Brathuhn,Fleisch Wurst Fisch Eier,166,19.7,0.2,339,200
+69454,Hühnerrei 1 Stück 60 g,Fleisch Wurst Fisch Eier,82,7.7,0.1,80,128
+69455,Joghurt aus Frischmilch 3.5 % Fett,Milch und Milchprodukte,61,3.3,0.1,157,102
+69456,Kabeljau (Dorsch),Fleisch Wurst Fisch Eier,77,17.7,0.0,352,194
+69457,Kaffee (Getränk),Getränke,2,0.2,0.0,66,2
+69458,Kartoffel gekocht mit Schale,Kartoffeln Nudeln und Reis,70,2.1,0.0,416,50
+69459,Kartoffelchips,Kartoffeln Nudeln und Reis,535,5.5,1.2,1000,147
+69460,Kirsche,Obst,63,0.9,0.0,210,20
+69461,Knäckebrot,Brot Gebäck Pizza,358,11.1,2.0,189,135
+69462,Konfitline Gelée Marmeladen,Aufstriche,299,0.1,0.0,57,4
+69463,Kopfsalat,Gemüse und Salate,12,1.3,0.0,224,33
+69464,Kuhmilch 3.5 % Fett,Milch und Milchprodukte,65,3.4,0.0,141,92
+69465,Laugengebäck,Brot Gebäck Pizza,340,9.4,2.0,129,160
+69466,Leber Kalb,Fleisch Wurst Fisch Eier,130,19.2,0.0,316,306
+69467,Leberwurst fein,Fleisch Wurst Fisch Eier,337,15.9,2.0,215,181
+69468,Mandarinen,Obst,50,0.7,0.0,210,20
+69469,Mango,Obst,60,0.6,0.0,190,13
+69470,Matjesfilet,Fleisch Wurst Fisch Eier,237,15.1,5.6,375,197
+69471,Nuss-Nougat-Creme,Aufstriche,417,8.0,0.0,673,219
+69472,Orange,Obst,47,1.0,0.0,177,23
+69473,Paprikaschote,Gemüse und Salate,19,1.1,0.0,177,22
+69474,Paranuss,Nüsse,674,17.6,0.0,1020,500
+69475,Pfirsich,Obst,41,0.8,0.0,176,25
+69476,Pizza im Durchschnitt,Brot Gebäck Pizza,216,9.0,1.2,190,155
+69477,Pommes Frites,Kartoffeln Nudeln und Reis,290,3.0,0.8,560,73
+69478,Radischen,Gemüse und Salate,15,1.1,0.0,255,26
+69479,Reis gekocht poliert,Kartoffeln Nudeln und Reis,84,2.0,0.0,31,36
+69480,Rindfleisch mager,Fleisch Wurst Fisch Eier,129,20.2,0.0,297,174
+69481,Roggenmischbrot,Brot Gebäck Pizza,212,6.9,0.0,185,136
+69482,Rote Rübe (Bete roh,Gemüse und Salate,41,1.5,0.0,407,45
+69483,Rote Rübe Konserve abgetropft,Gemüse und Salate,32,1.4,0.5,215,43
+69484,Rotkohl (Blaukraut) gegart ohne Salz,Gemüse und Salate,18,1.4,0.0,138,38
+69485,Rotkohl roh,Gemüse und Salate,23,1.5,0.0,264,30
+69486,Sahne 30 % Fett,Milch und Milchprodukte,288,2.5,0.0,100,60
+69487,Salami,Fleisch Wurst Fisch Eier,316,17.2,3.2,314,158
+69488,Salz,Zucker und Salz,0,0.0,99.0,4,150
+69489,Salzkartoffeln,Kartoffeln Nudeln und Reis,70,2.0,0.8,338,48
+69490,Salzstangen,Süßigkeiten Knabbereien,347,9.0,4.3,124,130
+69491,Schinken gekocht geräuchert,Fleisch Wurst Fisch Eier,193,19.5,2.4,270,136
+69492,Schokolade Milchschokolade,Süßigkeiten Knabbereien,537,9.2,0.0,466,261
+69493,Schokolade Vollmilch,Süßigkeiten Knabbereien,507,5.3,0.0,459,220
+69494,Schokolade weiß,Süßigkeiten Knabbereien,542,5.2,0.0,241,144
+69495,Schwein Bratenfleisch,Fleisch Wurst Fisch Eier,161,20.4,0.1,290,150
+69496,Sesam-Samen,Nüsse,565,17.7,0.0,468,607
+69497,Sojasauce,Soßen Fette,70,8.7,15.0,360,210
+69498,Spargel Konserve,Gemüse und Salate,15,1.7,0.7,120,30
+69499,Spargel roh,Gemüse und Salate,18,1.9,0.0,203,46
+69500,Spätzle (Rohmasse),Kartoffeln Nudeln und Reis,108,3.6,0.0,400,45
+69501,Tomate,Gemüse und Salate,17,1.0,0.5,242,26
+69502,Tomatensetchup,Soßen Fette,110,2.1,3.0,590,43
+69503,Vollkornbrot,Brot Gebäck Pizza,187,6.5,1.4,239,232
+69504,Walnuss,Nüsse,683,14.4,0.0,544,407
+69505,Wasser im Durchschnitt,Getränke,0,0.2,0.0,82,15
+69506,Wassermelone,Obst,38,0.6,0.0,158,11
+69507,Weintrauben,Obst,71,0.7,0.0,190,20
+69508,Weizenmischbrot (Sonnenblumen),Brot Gebäck Pizza,274,8.7,1.4,130,102
+69509,Zitrone,Obst,56,0.7,0.0,149,16
+69510,Zucchini,Gemüse und Salate,28,1.3,0.0,135,42
+69511,Zucchini gegart ohne Salz,Gemüse und Salate,19,1.6,0.0,167,23
+69512,Zucker,Zucker und Salz,405,0.0,0.0,2,0
+69513,Zwiebelkuchen Hefeteig,Brot Gebäck Pizza,167,4.0,0.0,195,60
+69514,Öl (Pflanzenöl im Durchschnitt),Soßen Fette,881,0.0,0.0,0,1
